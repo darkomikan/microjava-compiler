@@ -1,0 +1,57 @@
+INFO  12:38:35,001 - Prevodjenje izvornog fajla: C:\Users\md190487d\Desktop\13E114PP1\workspace\MJCompiler\test\testSemantike2.mj
+INFO  12:38:35,072 - #2 program
+INFO  12:38:35,072 - #20 P
+INFO  12:38:35,072 - #20 int
+INFO  12:38:35,074 - #20 a
+INFO  12:38:35,076 - #39 ,
+INFO  12:38:35,077 - #20 b
+INFO  12:38:35,077 - #37 ;
+INFO  12:38:35,077 - #46 {
+INFO  12:38:35,078 - #11 void
+INFO  12:38:35,079 - #20 m
+INFO  12:38:35,079 - #42 (
+INFO  12:38:35,080 - #43 )
+INFO  12:38:35,080 - #46 {
+INFO  12:38:35,080 - #47 }
+INFO  12:38:35,081 - #47 }
+INFO  12:38:35,082 - ===================================
+INFO  12:38:35,087 - ProgramMethods(
+  ProgName(
+   P
+  ) [ProgName]
+  GlobalVar(
+    NoGlobalDecl(
+    ) [NoGlobalDecl]
+    VarDeclStart(
+      DeclType(
+        Type(
+         int
+        ) [Type]
+      ) [DeclType]
+      Var(
+       a
+      ) [Var]
+      MoreVar(
+        NoMoreVar(
+        ) [NoMoreVar]
+        AnotherVar(
+          Var(
+           b
+          ) [Var]
+        ) [AnotherVar]
+      ) [MoreVar]
+    ) [VarDeclStart]
+  ) [GlobalVar]
+  SingleMethodDecl(
+    VoidMethodNoPars(
+      MethodVoidName(
+       m
+      ) [MethodVoidName]
+      NoVarDecl(
+      ) [NoVarDecl]
+      NoStatement(
+      ) [NoStatement]
+    ) [VoidMethodNoPars]
+  ) [SingleMethodDecl]
+) [ProgramMethods]
+INFO  12:38:35,088 - Parsiranje uspijesno zavrseno.

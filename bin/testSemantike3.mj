@@ -1,0 +1,28 @@
+program P
+	const int a = 5, b = 6, a = 7;
+	const char c = 2;
+	bool ok, ok[];
+	tip f;
+	ok g, gg;
+{
+ 	void main()
+ 		int a, b, m[];
+ 		bool no;
+ 	{
+ 		m = new int[no];
+ 		read(c);
+ 		read(m);
+ 		a = false;
+ 		c = 'e';
+ 		m++;
+ 		ok--;
+ 		[a,,b] = c;
+ 		[no,b,] = m;
+ 		a = -no;
+ 		a = c + b;
+ 		b = a * ok;
+ 		a = m[ok];
+ 		a = b[2];
+ 		zz++;
+ 	}
+} 

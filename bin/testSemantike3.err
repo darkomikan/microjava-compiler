@@ -1,0 +1,27 @@
+Greska na liniji 2: ime a je vec deklarisano.
+Greska na liniji 3: nekompatibilan tip konstante.
+Greska na liniji 4: ime ok je vec deklarisano.
+Greska na liniji 5: nije pronadjen tip tip u tabeli simbola.
+Greska na liniji 6: ime ok ne predstavlja tip.
+Greska na liniji 12: izraz u zagradi nije tipa int.
+Greska na liniji 13: argument mora biti promjenljiva ili element niza tipa int, char ili bool.
+Greska na liniji 14: argument mora biti promjenljiva ili element niza tipa int, char ili bool.
+Greska na liniji 15: nekompatibilni tipovi u dodjeli vrijednosti.
+Greska na liniji 16: lijeva strana izraza za dodjelu nije promjenljiva niti element niza.
+Greska na liniji 17: operand mora biti promjenljiva ili element niza tipa int.
+Greska na liniji 18: operand mora biti promjenljiva ili element niza tipa int.
+Greska na liniji 19: desna strana izraza ne predstavlja niz.
+Greska na liniji 20: tip elementa niza nije kompatibilan pri dodjeli sa tipom svih operanada.
+Greska na liniji 21: operand nije tipa int.
+Greska na liniji 21: nekompatibilni tipovi u dodjeli vrijednosti.
+Greska na liniji 22: nekompatibilni tipovi u izrazu za sabiranje.
+Greska na liniji 22: nekompatibilni tipovi u dodjeli vrijednosti.
+Greska na liniji 23: nekompatibilni tipovi u izrazu za mnozenje.
+Greska na liniji 23: nekompatibilni tipovi u dodjeli vrijednosti.
+Greska na liniji 24: izraz u zagradi nije tipa int.
+Greska na liniji 24: nekompatibilni tipovi u dodjeli vrijednosti.
+Greska na liniji 25: ime b ne predstavlja niz.
+Greska na liniji 25: nekompatibilni tipovi u dodjeli vrijednosti.
+Greska na liniji 26: ime zz nije deklarisano.
+Greska na liniji 26: operand mora biti promjenljiva ili element niza tipa int.
+Semanticka analiza NIJE uspijesno zavrsena.

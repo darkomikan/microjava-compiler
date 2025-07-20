@@ -1,0 +1,653 @@
+INFO  12:38:47,530 - Prevodjenje izvornog fajla: C:\Users\md190487d\Desktop\13E114PP1\workspace\MJCompiler\test\testSemantike3.mj
+INFO  12:38:47,581 - #2 program
+INFO  12:38:47,581 - #20 P
+INFO  12:38:47,581 - #12 const
+INFO  12:38:47,582 - #20 int
+INFO  12:38:47,582 - #20 a
+INFO  12:38:47,583 - #34 =
+INFO  12:38:47,583 - #17 5
+INFO  12:38:47,583 - #39 ,
+INFO  12:38:47,584 - #20 b
+INFO  12:38:47,584 - #34 =
+INFO  12:38:47,584 - #17 6
+INFO  12:38:47,585 - #39 ,
+INFO  12:38:47,585 - #20 a
+INFO  12:38:47,585 - #34 =
+INFO  12:38:47,585 - #17 7
+INFO  12:38:47,585 - #37 ;
+INFO  12:38:47,585 - #12 const
+INFO  12:38:47,591 - #20 char
+INFO  12:38:47,591 - #20 c
+INFO  12:38:47,592 - #34 =
+INFO  12:38:47,592 - #17 2
+INFO  12:38:47,592 - #37 ;
+INFO  12:38:47,592 - #20 bool
+INFO  12:38:47,592 - #20 ok
+INFO  12:38:47,592 - #39 ,
+INFO  12:38:47,593 - #20 ok
+INFO  12:38:47,593 - #44 [
+INFO  12:38:47,593 - #45 ]
+INFO  12:38:47,593 - #37 ;
+INFO  12:38:47,594 - #20 tip
+INFO  12:38:47,594 - #20 f
+INFO  12:38:47,594 - #37 ;
+INFO  12:38:47,594 - #20 ok
+INFO  12:38:47,594 - #20 g
+INFO  12:38:47,594 - #39 ,
+INFO  12:38:47,594 - #20 gg
+INFO  12:38:47,594 - #37 ;
+INFO  12:38:47,594 - #46 {
+INFO  12:38:47,594 - #11 void
+INFO  12:38:47,594 - #20 main
+INFO  12:38:47,594 - #42 (
+INFO  12:38:47,595 - #43 )
+INFO  12:38:47,595 - #20 int
+INFO  12:38:47,595 - #20 a
+INFO  12:38:47,595 - #39 ,
+INFO  12:38:47,595 - #20 b
+INFO  12:38:47,595 - #39 ,
+INFO  12:38:47,596 - #20 m
+INFO  12:38:47,596 - #44 [
+INFO  12:38:47,596 - #45 ]
+INFO  12:38:47,596 - #37 ;
+INFO  12:38:47,596 - #20 bool
+INFO  12:38:47,596 - #20 no
+INFO  12:38:47,597 - #37 ;
+INFO  12:38:47,597 - #46 {
+INFO  12:38:47,597 - #20 m
+INFO  12:38:47,597 - #34 =
+INFO  12:38:47,598 - #13 new
+INFO  12:38:47,598 - #20 int
+INFO  12:38:47,598 - #44 [
+INFO  12:38:47,598 - #20 no
+INFO  12:38:47,598 - #45 ]
+INFO  12:38:47,599 - #37 ;
+INFO  12:38:47,599 - #14 read
+INFO  12:38:47,599 - #42 (
+INFO  12:38:47,599 - #20 c
+INFO  12:38:47,599 - #43 )
+INFO  12:38:47,599 - #37 ;
+INFO  12:38:47,599 - #14 read
+INFO  12:38:47,600 - #42 (
+INFO  12:38:47,600 - #20 m
+INFO  12:38:47,600 - #43 )
+INFO  12:38:47,600 - #37 ;
+INFO  12:38:47,600 - #20 a
+INFO  12:38:47,600 - #34 =
+INFO  12:38:47,600 - #19 false
+INFO  12:38:47,603 - #37 ;
+INFO  12:38:47,603 - #20 c
+INFO  12:38:47,603 - #34 =
+INFO  12:38:47,603 - #18 e
+INFO  12:38:47,603 - #37 ;
+INFO  12:38:47,604 - #20 m
+INFO  12:38:47,604 - #35 ++
+INFO  12:38:47,604 - #37 ;
+INFO  12:38:47,604 - #20 ok
+INFO  12:38:47,604 - #36 --
+INFO  12:38:47,604 - #37 ;
+INFO  12:38:47,604 - #44 [
+INFO  12:38:47,604 - #20 a
+INFO  12:38:47,604 - #39 ,
+INFO  12:38:47,604 - #39 ,
+INFO  12:38:47,604 - #20 b
+INFO  12:38:47,605 - #45 ]
+INFO  12:38:47,605 - #34 =
+INFO  12:38:47,605 - #20 c
+INFO  12:38:47,605 - #37 ;
+INFO  12:38:47,605 - #44 [
+INFO  12:38:47,605 - #20 no
+INFO  12:38:47,605 - #39 ,
+INFO  12:38:47,605 - #20 b
+INFO  12:38:47,606 - #39 ,
+INFO  12:38:47,606 - #45 ]
+INFO  12:38:47,606 - #34 =
+INFO  12:38:47,606 - #20 m
+INFO  12:38:47,606 - #37 ;
+INFO  12:38:47,606 - #20 a
+INFO  12:38:47,606 - #34 =
+INFO  12:38:47,606 - #22 -
+INFO  12:38:47,606 - #20 no
+INFO  12:38:47,606 - #37 ;
+INFO  12:38:47,607 - #20 a
+INFO  12:38:47,607 - #34 =
+INFO  12:38:47,607 - #20 c
+INFO  12:38:47,607 - #21 +
+INFO  12:38:47,607 - #20 b
+INFO  12:38:47,608 - #37 ;
+INFO  12:38:47,608 - #20 b
+INFO  12:38:47,609 - #34 =
+INFO  12:38:47,609 - #20 a
+INFO  12:38:47,609 - #23 *
+INFO  12:38:47,609 - #20 ok
+INFO  12:38:47,610 - #37 ;
+INFO  12:38:47,610 - #20 a
+INFO  12:38:47,610 - #34 =
+INFO  12:38:47,610 - #20 m
+INFO  12:38:47,610 - #44 [
+INFO  12:38:47,610 - #20 ok
+INFO  12:38:47,610 - #45 ]
+INFO  12:38:47,610 - #37 ;
+INFO  12:38:47,611 - #20 a
+INFO  12:38:47,611 - #34 =
+INFO  12:38:47,611 - #20 b
+INFO  12:38:47,611 - #44 [
+INFO  12:38:47,611 - #17 2
+INFO  12:38:47,611 - #45 ]
+INFO  12:38:47,611 - #37 ;
+INFO  12:38:47,611 - #20 zz
+INFO  12:38:47,611 - #35 ++
+INFO  12:38:47,611 - #37 ;
+INFO  12:38:47,611 - #47 }
+INFO  12:38:47,612 - #47 }
+INFO  12:38:47,613 - ===================================
+INFO  12:38:47,615 - ProgramMethods(
+  ProgName(
+   P
+  ) [ProgName]
+  GlobalVar(
+    GlobalVar(
+      GlobalVar(
+        GlobalConst(
+          GlobalConst(
+            NoGlobalDecl(
+            ) [NoGlobalDecl]
+            ConstDecl(
+              DeclType(
+                Type(
+                 int
+                ) [Type]
+              ) [DeclType]
+             a
+              IntLiteral(
+               5
+              ) [IntLiteral]
+              MoreConst(
+                MoreConst(
+                  NoMoreConst(
+                  ) [NoMoreConst]
+                 b
+                  IntLiteral(
+                   6
+                  ) [IntLiteral]
+                ) [MoreConst]
+               a
+                IntLiteral(
+                 7
+                ) [IntLiteral]
+              ) [MoreConst]
+            ) [ConstDecl]
+          ) [GlobalConst]
+          ConstDecl(
+            DeclType(
+              Type(
+               char
+              ) [Type]
+            ) [DeclType]
+           c
+            IntLiteral(
+             2
+            ) [IntLiteral]
+            NoMoreConst(
+            ) [NoMoreConst]
+          ) [ConstDecl]
+        ) [GlobalConst]
+        VarDeclStart(
+          DeclType(
+            Type(
+             bool
+            ) [Type]
+          ) [DeclType]
+          Var(
+           ok
+          ) [Var]
+          MoreVar(
+            NoMoreVar(
+            ) [NoMoreVar]
+            AnotherVar(
+              Arr(
+               ok
+              ) [Arr]
+            ) [AnotherVar]
+          ) [MoreVar]
+        ) [VarDeclStart]
+      ) [GlobalVar]
+      VarDeclStart(
+        DeclType(
+          Type(
+           tip
+          ) [Type]
+        ) [DeclType]
+        Var(
+         f
+        ) [Var]
+        NoMoreVar(
+        ) [NoMoreVar]
+      ) [VarDeclStart]
+    ) [GlobalVar]
+    VarDeclStart(
+      DeclType(
+        Type(
+         ok
+        ) [Type]
+      ) [DeclType]
+      Var(
+       g
+      ) [Var]
+      MoreVar(
+        NoMoreVar(
+        ) [NoMoreVar]
+        AnotherVar(
+          Var(
+           gg
+          ) [Var]
+        ) [AnotherVar]
+      ) [MoreVar]
+    ) [VarDeclStart]
+  ) [GlobalVar]
+  SingleMethodDecl(
+    VoidMethodNoPars(
+      MethodVoidName(
+       main
+      ) [MethodVoidName]
+      MultipleVarDecl(
+        MultipleVarDecl(
+          NoVarDecl(
+          ) [NoVarDecl]
+          VarDeclStart(
+            DeclType(
+              Type(
+               int
+              ) [Type]
+            ) [DeclType]
+            Var(
+             a
+            ) [Var]
+            MoreVar(
+              MoreVar(
+                NoMoreVar(
+                ) [NoMoreVar]
+                AnotherVar(
+                  Var(
+                   b
+                  ) [Var]
+                ) [AnotherVar]
+              ) [MoreVar]
+              AnotherVar(
+                Arr(
+                 m
+                ) [Arr]
+              ) [AnotherVar]
+            ) [MoreVar]
+          ) [VarDeclStart]
+        ) [MultipleVarDecl]
+        VarDeclStart(
+          DeclType(
+            Type(
+             bool
+            ) [Type]
+          ) [DeclType]
+          Var(
+           no
+          ) [Var]
+          NoMoreVar(
+          ) [NoMoreVar]
+        ) [VarDeclStart]
+      ) [MultipleVarDecl]
+      MultipleStatement(
+        MultipleStatement(
+          MultipleStatement(
+            MultipleStatement(
+              MultipleStatement(
+                MultipleStatement(
+                  MultipleStatement(
+                    MultipleStatement(
+                      MultipleStatement(
+                        MultipleStatement(
+                          MultipleStatement(
+                            MultipleStatement(
+                              MultipleStatement(
+                                MultipleStatement(
+                                  MultipleStatement(
+                                    NoStatement(
+                                    ) [NoStatement]
+                                    MatchedStatement(
+                                      MatchedDesignatorStatement(
+                                        DesignatorAssign(
+                                          SingleIdent(
+                                           m
+                                          ) [SingleIdent]
+                                          Assignop(
+                                          ) [Assignop]
+                                          SingleTerm(
+                                            SingleFactor(
+                                              NewArrFactor(
+                                                Type(
+                                                 int
+                                                ) [Type]
+                                                SingleTerm(
+                                                  SingleFactor(
+                                                    DesignatorFactor(
+                                                      SingleIdent(
+                                                       no
+                                                      ) [SingleIdent]
+                                                    ) [DesignatorFactor]
+                                                  ) [SingleFactor]
+                                                ) [SingleTerm]
+                                              ) [NewArrFactor]
+                                            ) [SingleFactor]
+                                          ) [SingleTerm]
+                                        ) [DesignatorAssign]
+                                      ) [MatchedDesignatorStatement]
+                                    ) [MatchedStatement]
+                                  ) [MultipleStatement]
+                                  MatchedStatement(
+                                    ReadStatement(
+                                      SingleIdent(
+                                       c
+                                      ) [SingleIdent]
+                                    ) [ReadStatement]
+                                  ) [MatchedStatement]
+                                ) [MultipleStatement]
+                                MatchedStatement(
+                                  ReadStatement(
+                                    SingleIdent(
+                                     m
+                                    ) [SingleIdent]
+                                  ) [ReadStatement]
+                                ) [MatchedStatement]
+                              ) [MultipleStatement]
+                              MatchedStatement(
+                                MatchedDesignatorStatement(
+                                  DesignatorAssign(
+                                    SingleIdent(
+                                     a
+                                    ) [SingleIdent]
+                                    Assignop(
+                                    ) [Assignop]
+                                    SingleTerm(
+                                      SingleFactor(
+                                        LiteralFactor(
+                                          BoolLiteral(
+                                           false
+                                          ) [BoolLiteral]
+                                        ) [LiteralFactor]
+                                      ) [SingleFactor]
+                                    ) [SingleTerm]
+                                  ) [DesignatorAssign]
+                                ) [MatchedDesignatorStatement]
+                              ) [MatchedStatement]
+                            ) [MultipleStatement]
+                            MatchedStatement(
+                              MatchedDesignatorStatement(
+                                DesignatorAssign(
+                                  SingleIdent(
+                                   c
+                                  ) [SingleIdent]
+                                  Assignop(
+                                  ) [Assignop]
+                                  SingleTerm(
+                                    SingleFactor(
+                                      LiteralFactor(
+                                        CharLiteral(
+                                         e
+                                        ) [CharLiteral]
+                                      ) [LiteralFactor]
+                                    ) [SingleFactor]
+                                  ) [SingleTerm]
+                                ) [DesignatorAssign]
+                              ) [MatchedDesignatorStatement]
+                            ) [MatchedStatement]
+                          ) [MultipleStatement]
+                          MatchedStatement(
+                            MatchedDesignatorStatement(
+                              DesignatorInc(
+                                SingleIdent(
+                                 m
+                                ) [SingleIdent]
+                              ) [DesignatorInc]
+                            ) [MatchedDesignatorStatement]
+                          ) [MatchedStatement]
+                        ) [MultipleStatement]
+                        MatchedStatement(
+                          MatchedDesignatorStatement(
+                            DesignatorDec(
+                              SingleIdent(
+                               ok
+                              ) [SingleIdent]
+                            ) [DesignatorDec]
+                          ) [MatchedDesignatorStatement]
+                        ) [MatchedStatement]
+                      ) [MultipleStatement]
+                      MatchedStatement(
+                        MatchedDesignatorStatement(
+                          MultDesignator(
+                            MoreDesignator(
+                              MoreComma(
+                                SingleDesignator(
+                                  SingleIdent(
+                                   a
+                                  ) [SingleIdent]
+                                ) [SingleDesignator]
+                              ) [MoreComma]
+                              SingleIdent(
+                               b
+                              ) [SingleIdent]
+                            ) [MoreDesignator]
+                            SingleIdent(
+                             c
+                            ) [SingleIdent]
+                          ) [MultDesignator]
+                        ) [MatchedDesignatorStatement]
+                      ) [MatchedStatement]
+                    ) [MultipleStatement]
+                    MatchedStatement(
+                      MatchedDesignatorStatement(
+                        MultDesignator(
+                          MoreComma(
+                            MoreDesignator(
+                              SingleDesignator(
+                                SingleIdent(
+                                 no
+                                ) [SingleIdent]
+                              ) [SingleDesignator]
+                              SingleIdent(
+                               b
+                              ) [SingleIdent]
+                            ) [MoreDesignator]
+                          ) [MoreComma]
+                          SingleIdent(
+                           m
+                          ) [SingleIdent]
+                        ) [MultDesignator]
+                      ) [MatchedDesignatorStatement]
+                    ) [MatchedStatement]
+                  ) [MultipleStatement]
+                  MatchedStatement(
+                    MatchedDesignatorStatement(
+                      DesignatorAssign(
+                        SingleIdent(
+                         a
+                        ) [SingleIdent]
+                        Assignop(
+                        ) [Assignop]
+                        NegativeTerm(
+                          SingleFactor(
+                            DesignatorFactor(
+                              SingleIdent(
+                               no
+                              ) [SingleIdent]
+                            ) [DesignatorFactor]
+                          ) [SingleFactor]
+                        ) [NegativeTerm]
+                      ) [DesignatorAssign]
+                    ) [MatchedDesignatorStatement]
+                  ) [MatchedStatement]
+                ) [MultipleStatement]
+                MatchedStatement(
+                  MatchedDesignatorStatement(
+                    DesignatorAssign(
+                      SingleIdent(
+                       a
+                      ) [SingleIdent]
+                      Assignop(
+                      ) [Assignop]
+                      MultipleTerm(
+                        SingleTerm(
+                          SingleFactor(
+                            DesignatorFactor(
+                              SingleIdent(
+                               c
+                              ) [SingleIdent]
+                            ) [DesignatorFactor]
+                          ) [SingleFactor]
+                        ) [SingleTerm]
+                        Add(
+                        ) [Add]
+                        SingleFactor(
+                          DesignatorFactor(
+                            SingleIdent(
+                             b
+                            ) [SingleIdent]
+                          ) [DesignatorFactor]
+                        ) [SingleFactor]
+                      ) [MultipleTerm]
+                    ) [DesignatorAssign]
+                  ) [MatchedDesignatorStatement]
+                ) [MatchedStatement]
+              ) [MultipleStatement]
+              MatchedStatement(
+                MatchedDesignatorStatement(
+                  DesignatorAssign(
+                    SingleIdent(
+                     b
+                    ) [SingleIdent]
+                    Assignop(
+                    ) [Assignop]
+                    SingleTerm(
+                      MultipleFactor(
+                        SingleFactor(
+                          DesignatorFactor(
+                            SingleIdent(
+                             a
+                            ) [SingleIdent]
+                          ) [DesignatorFactor]
+                        ) [SingleFactor]
+                        Mul(
+                        ) [Mul]
+                        DesignatorFactor(
+                          SingleIdent(
+                           ok
+                          ) [SingleIdent]
+                        ) [DesignatorFactor]
+                      ) [MultipleFactor]
+                    ) [SingleTerm]
+                  ) [DesignatorAssign]
+                ) [MatchedDesignatorStatement]
+              ) [MatchedStatement]
+            ) [MultipleStatement]
+            MatchedStatement(
+              MatchedDesignatorStatement(
+                DesignatorAssign(
+                  SingleIdent(
+                   a
+                  ) [SingleIdent]
+                  Assignop(
+                  ) [Assignop]
+                  SingleTerm(
+                    SingleFactor(
+                      DesignatorFactor(
+                        ArrDesignator(
+                          SingleIdent(
+                           m
+                          ) [SingleIdent]
+                          SingleTerm(
+                            SingleFactor(
+                              DesignatorFactor(
+                                SingleIdent(
+                                 ok
+                                ) [SingleIdent]
+                              ) [DesignatorFactor]
+                            ) [SingleFactor]
+                          ) [SingleTerm]
+                        ) [ArrDesignator]
+                      ) [DesignatorFactor]
+                    ) [SingleFactor]
+                  ) [SingleTerm]
+                ) [DesignatorAssign]
+              ) [MatchedDesignatorStatement]
+            ) [MatchedStatement]
+          ) [MultipleStatement]
+          MatchedStatement(
+            MatchedDesignatorStatement(
+              DesignatorAssign(
+                SingleIdent(
+                 a
+                ) [SingleIdent]
+                Assignop(
+                ) [Assignop]
+                SingleTerm(
+                  SingleFactor(
+                    DesignatorFactor(
+                      ArrDesignator(
+                        SingleIdent(
+                         b
+                        ) [SingleIdent]
+                        SingleTerm(
+                          SingleFactor(
+                            LiteralFactor(
+                              IntLiteral(
+                               2
+                              ) [IntLiteral]
+                            ) [LiteralFactor]
+                          ) [SingleFactor]
+                        ) [SingleTerm]
+                      ) [ArrDesignator]
+                    ) [DesignatorFactor]
+                  ) [SingleFactor]
+                ) [SingleTerm]
+              ) [DesignatorAssign]
+            ) [MatchedDesignatorStatement]
+          ) [MatchedStatement]
+        ) [MultipleStatement]
+        MatchedStatement(
+          MatchedDesignatorStatement(
+            DesignatorInc(
+              SingleIdent(
+               zz
+              ) [SingleIdent]
+            ) [DesignatorInc]
+          ) [MatchedDesignatorStatement]
+        ) [MatchedStatement]
+      ) [MultipleStatement]
+    ) [VoidMethodNoPars]
+  ) [SingleMethodDecl]
+) [ProgramMethods]
+INFO  12:38:47,616 - Parsiranje uspijesno zavrseno.
+INFO  12:38:47,622 - Pretraga na liniji 12(m), detektovan Var m: Arr of int, 2, 1
+INFO  12:38:47,622 - Pretraga na liniji 12(no), detektovan Var no: bool, 3, 1
+INFO  12:38:47,622 - Pretraga na liniji 13(c), detektovan Con c: char, 2, 0
+INFO  12:38:47,622 - Pretraga na liniji 14(m), detektovan Var m: Arr of int, 2, 1
+INFO  12:38:47,622 - Pretraga na liniji 15(a), detektovan Var a: int, 0, 1
+INFO  12:38:47,623 - Pretraga na liniji 16(c), detektovan Con c: char, 2, 0
+INFO  12:38:47,623 - Pretraga na liniji 17(m), detektovan Var m: Arr of int, 2, 1
+INFO  12:38:47,623 - Pretraga na liniji 18(ok), detektovan Var ok: bool, 0, 0
+INFO  12:38:47,623 - Pretraga na liniji 19(a), detektovan Var a: int, 0, 1
+INFO  12:38:47,623 - Pretraga na liniji 19(b), detektovan Var b: int, 1, 1
+INFO  12:38:47,623 - Pretraga na liniji 19(c), detektovan Con c: char, 2, 0
+INFO  12:38:47,623 - Pretraga na liniji 20(no), detektovan Var no: bool, 3, 1
+INFO  12:38:47,623 - Pretraga na liniji 20(b), detektovan Var b: int, 1, 1
+INFO  12:38:47,623 - Pretraga na liniji 20(m), detektovan Var m: Arr of int, 2, 1
+INFO  12:38:47,623 - Pretraga na liniji 21(a), detektovan Var a: int, 0, 1
+INFO  12:38:47,624 - Pretraga na liniji 21(no), detektovan Var no: bool, 3, 1
+INFO  12:38:47,624 - Pretraga na liniji 22(a), detektovan Var a: int, 0, 1
+INFO  12:38:47,624 - Pretraga na liniji 22(c), detektovan Con c: char, 2, 0
+INFO  12:38:47,624 - Pretraga na liniji 22(b), detektovan Var b: int, 1, 1
+INFO  12:38:47,624 - Pretraga na liniji 23(b), detektovan Var b: int, 1, 1
+INFO  12:38:47,624 - Pretraga na liniji 23(a), detektovan Var a: int, 0, 1
+INFO  12:38:47,624 - Pretraga na liniji 23(ok), detektovan Var ok: bool, 0, 0
+INFO  12:38:47,624 - Pretraga na liniji 24(a), detektovan Var a: int, 0, 1
+INFO  12:38:47,624 - Pretraga na liniji 24(m), detektovan Var m: Arr of int, 2, 1
+INFO  12:38:47,624 - Pretraga na liniji 24(ok), detektovan Var ok: bool, 0, 0
+INFO  12:38:47,625 - Pretraga na liniji 25(a), detektovan Var a: int, 0, 1
+INFO  12:38:47,625 - Pretraga na liniji 25(b), detektovan Var b: int, 1, 1

@@ -1,0 +1,84 @@
+INFO  13:51:07,461 - Prevodjenje izvornog fajla: C:\Users\md190487d\Desktop\13E114PP1\workspace\MJCompiler\test\testParsera.mj
+INFO  13:51:07,531 - #2 program
+INFO  13:51:07,531 - #20 P
+INFO  13:51:07,531 - #20 int
+INFO  13:51:07,533 - #20 a
+INFO  13:51:07,535 - #37 ;
+INFO  13:51:07,538 - #20 bool
+INFO  13:51:07,540 - #20 b
+INFO  13:51:07,542 - #20 c
+INFO  13:51:07,544 - #39 ,
+INFO  13:51:07,545 - #20 d
+INFO  13:51:07,545 - #39 ,
+INFO  13:51:07,548 - #20 e
+INFO  13:51:07,548 - #37 ;
+INFO  13:51:07,549 - #20 char
+INFO  13:51:07,550 - #20 x
+INFO  13:51:07,551 - #39 ,
+ERROR 13:51:07,552 - Greska u definisanju promjenljive, izvrsen oporavak u liniji 3
+INFO  13:51:07,555 - #20 y
+INFO  13:51:07,557 - #39 ,
+INFO  13:51:07,560 - #20 z
+INFO  13:51:07,561 - #17 2
+INFO  13:51:07,561 - #37 ;
+INFO  13:51:07,561 - #20 int
+INFO  13:51:07,561 - #20 l
+INFO  13:51:07,561 - #39 ,
+ERROR 13:51:07,562 - Greska u definisanju promjenljive, izvrsen oporavak u liniji 4
+INFO  13:51:07,564 - #20 m
+INFO  13:51:07,564 - #21 +
+INFO  13:51:07,565 - #39 ,
+INFO  13:51:07,565 - #39 ,
+INFO  13:51:07,565 - #20 n
+INFO  13:51:07,565 - #37 ;
+INFO  13:51:07,565 - #46 {
+ERROR 13:51:07,566 - Greska u definisanju promjenljive, izvrsen oporavak u liniji 5
+INFO  13:51:07,567 - #11 void
+INFO  13:51:07,567 - #20 main
+INFO  13:51:07,567 - #42 (
+INFO  13:51:07,570 - #43 )
+INFO  13:51:07,571 - #20 int
+INFO  13:51:07,572 - #20 a
+INFO  13:51:07,572 - #39 ,
+INFO  13:51:07,573 - #20 b
+INFO  13:51:07,576 - #37 ;
+INFO  13:51:07,585 - #20 char
+INFO  13:51:07,586 - #20 c
+INFO  13:51:07,587 - #39 ,
+INFO  13:51:07,587 - #37 ;
+INFO  13:51:07,587 - #46 {
+INFO  13:51:07,587 - #20 a
+INFO  13:51:07,588 - #34 =
+ERROR 13:51:07,588 - Greska u definisanju promjenljive, izvrsen oporavak u liniji 9
+INFO  13:51:07,590 - #17 0
+INFO  13:51:07,593 - #37 ;
+INFO  13:51:07,595 - #20 a
+INFO  13:51:07,596 - #34 =
+INFO  13:51:07,596 - #21 +
+INFO  13:51:07,596 - #37 ;
+INFO  13:51:07,596 - #20 b
+INFO  13:51:07,596 - #34 =
+INFO  13:51:07,596 - #20 a
+ERROR 13:51:07,597 - Greska u iskazu dodjele, izvrsen oporavak u liniji 12
+INFO  13:51:07,598 - #21 +
+INFO  13:51:07,598 - #20 a
+INFO  13:51:07,601 - #21 +
+INFO  13:51:07,601 - #37 ;
+INFO  13:51:07,601 - #20 b
+INFO  13:51:07,602 - #34 =
+INFO  13:51:07,602 - #20 a
+ERROR 13:51:07,602 - Greska u iskazu dodjele, izvrsen oporavak u liniji 13
+INFO  13:51:07,602 - #20 a
+INFO  13:51:07,602 - #37 ;
+INFO  13:51:07,602 - #20 c
+INFO  13:51:07,603 - #34 =
+INFO  13:51:07,603 - #18 e
+ERROR 13:51:07,603 - Greska u iskazu dodjele, izvrsen oporavak u liniji 14
+INFO  13:51:07,603 - #37 ;
+INFO  13:51:07,603 - #20 b
+INFO  13:51:07,604 - #34 =
+INFO  13:51:07,604 - #37 ;
+INFO  13:51:07,604 - #47 }
+INFO  13:51:07,604 - #47 }
+ERROR 13:51:07,604 - Greska u iskazu dodjele, izvrsen oporavak u liniji 16
+ERROR 13:51:07,605 - Parsiranje NIJE uspijesno zavrseno.

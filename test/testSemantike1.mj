@@ -1,0 +1,30 @@
+program P
+	const int a = 1, b = 2, c = 3;
+	const char d = 'd', e = 'e';
+	const bool f = false;
+	int g, h[];
+	char i[], j;
+	bool k, l[];
+{	
+ 	void main()
+ 		int p, q;
+ 		char r;
+ 		bool s;
+ 	{
+ 		q = 1;
+ 		read(p);
+ 		p = p + q;
+ 		p++;
+ 		print(p);
+ 		p--;
+ 		print(p,2);
+ 		
+ 		h = new int[4];
+ 		h[0] = c;
+ 		h[1] = b;
+ 		h[2] = a;
+ 		h[3] = -c + a + b;
+ 		[p,,,q] = h;
+ 		q = p % 2 + a * (c - (b / 2));
+ 	}
+} 

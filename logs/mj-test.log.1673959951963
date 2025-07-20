@@ -1,0 +1,59 @@
+INFO  13:52:15,212 - Prevodjenje izvornog fajla: C:\Users\md190487d\Desktop\13E114PP1\workspace\MJCompiler\test\testSemantike2.mj
+INFO  13:52:15,275 - #2 program
+INFO  13:52:15,276 - #20 P
+INFO  13:52:15,276 - #20 int
+INFO  13:52:15,278 - #20 a
+INFO  13:52:15,280 - #39 ,
+INFO  13:52:15,282 - #20 b
+INFO  13:52:15,282 - #37 ;
+INFO  13:52:15,282 - #46 {
+INFO  13:52:15,283 - #11 void
+INFO  13:52:15,283 - #20 m
+INFO  13:52:15,283 - #42 (
+INFO  13:52:15,284 - #43 )
+INFO  13:52:15,284 - #46 {
+INFO  13:52:15,285 - #47 }
+INFO  13:52:15,286 - #47 }
+INFO  13:52:15,287 - ===================================
+INFO  13:52:15,288 - ProgramMethods(
+  ProgName(
+   P
+  ) [ProgName]
+  GlobalVar(
+    NoGlobalDecl(
+    ) [NoGlobalDecl]
+    VarDeclStart(
+      DeclType(
+        Type(
+         int
+        ) [Type]
+      ) [DeclType]
+      Var(
+       a
+      ) [Var]
+      MoreVar(
+        NoMoreVar(
+        ) [NoMoreVar]
+        AnotherVar(
+          Var(
+           b
+          ) [Var]
+        ) [AnotherVar]
+      ) [MoreVar]
+    ) [VarDeclStart]
+  ) [GlobalVar]
+  SingleMethodDecl(
+    VoidMethodNoPars(
+      MethodVoidName(
+       m
+      ) [MethodVoidName]
+      NoVarDecl(
+      ) [NoVarDecl]
+      NoStatement(
+      ) [NoStatement]
+    ) [VoidMethodNoPars]
+  ) [SingleMethodDecl]
+) [ProgramMethods]
+INFO  13:52:15,291 - Parsiranje uspijesno zavrseno.
+ERROR 13:52:15,303 - Greska na liniji 1: program P ne sadrzi void main() metodu.
+ERROR 13:52:15,303 - Semanticka analiza NIJE uspijesno zavrsena.
